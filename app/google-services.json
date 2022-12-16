@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "736879690818",
+    "firebase_url": "https://whatschat-901a3-default-rtdb.firebaseio.com",
+    "project_id": "whatschat-901a3",
+    "storage_bucket": "whatschat-901a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736879690818:android:8e8770f46790e2dc9819db",
+        "android_client_info": {
+          "package_name": "com.example.whatschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736879690818-e8k2asv9qaolpe1tctmsvr9j56eekfqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-KiuMIh7aYY-C89CU9ps-eaWJ5-T3Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736879690818-e8k2asv9qaolpe1tctmsvr9j56eekfqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
